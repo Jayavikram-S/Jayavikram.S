@@ -29,15 +29,12 @@
 - **Smart Parking System-National Hackathon**
 
 ## 🏆 Achievements & Hackathons
--  **Second Prize – Security Centre of Excellence**  
+-  **Won a prize in Security Centre of Excellence**  
   In collaboration with the Departments of CSE, IT, and AI & Data Science  
 
 - **National Hackathon – AI & IoT for Future Green Mobility**  
-  Presented *“IoT Based Smart Cities”* project  
+  Presented *“IoT Based Smart Citie”* project  
   Conducted at **TIFAC, VIT Vellore, India** 
-
-
----
 
 ## 📫 Contact
 - 📧 Email: vikram0509206@gmail.com  
