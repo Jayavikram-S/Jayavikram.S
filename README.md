@@ -38,7 +38,7 @@
 
 ## 📫 Contact
 
-  <a href="https://www.linkedin.com/in/jaya-vikram-a60ab32a8" target="_blank">
+  <a href="[https://www.linkedin.com/in/jaya-vikram-a60ab32a8](https://www.linkedin.com/in/jayavikram-s-84091a358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
 
