@@ -46,7 +46,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
   
-  <a href="https://github.com/Jeyasankar-R" target="_blank">
+  <a href="https://https://github.com/Jayavikram-S" target="_blank">
   <img src="https://img.icons8.com/color/48/github.png" width="48" alt="GitHub"/>
 </a>
 
