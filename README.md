@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - **I am an Information Technology student with foundational knowledge in programming, web technologies, and database systems.**
-- **I am interested in building real-world applications and continuously improving my technical and problem-solving skills.**
+- **I am interested in cloud computing, building real-world applications and continuously improving my technical and problem-solving skills.**
 
 ## 🎓 Education
 - **Sri Ramakrishna Engineering College** – Information Technology  
@@ -16,8 +16,6 @@
 - 📱 **Android Studio** – Mobile app development and testing  
 - 💻 **VS Code** – Code editor for Python, Java, and web projects  
 - 🎨 **Adobe Photoshop** – Image editing and poster design  
-- 🎬 **Shortcut Video Editor** – Video trimming and simple edits  
-- 🎮 **Struckd Game Engine** – Basic game levels and gameplay logic
   
 ## 📜 Certifications
 - **Oracle Certified Professional – Generative AI**  
@@ -31,7 +29,7 @@
 - **Smart Parking System-National Hackathon**
 
 ## 🏆 Achievements & Hackathons
-- 🥈 **Second Prize – Security Centre of Excellence**  
+-  **Second Prize – Security Centre of Excellence**  
   In collaboration with the Departments of CSE, IT, and AI & Data Science  
 
 - **National Hackathon – AI & IoT for Future Green Mobility**  
