@@ -45,6 +45,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vikram0509206@gmail.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
+  
+  <a href="https://github.com/Jeyasankar-R" target="_blank">
+  <img src="https://img.icons8.com/color/48/github.png" width="48" alt="GitHub"/>
+</a>
 
 
 
