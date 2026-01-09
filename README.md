@@ -37,10 +37,13 @@
   Conducted at **TIFAC, VIT Vellore, India** 
 
 ## 📫 Contact
-<a href="https://www.linkedin.com/in/jaya-vikram-a60ab32a8" target="_blank">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-</a>
 
-<a href="vikram0509206@gmail.com">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
-</a>
+  <a href="https://www.linkedin.com/in/jaya-vikram-a60ab32a8" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vikram0509206@gmail.com" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+
+
