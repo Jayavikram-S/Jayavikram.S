@@ -37,5 +37,10 @@
   Conducted at **TIFAC, VIT Vellore, India** 
 
 ## 📫 Contact
-- 📧 Email: vikram0509206@gmail.com  
-- 💼 LinkedIn: [Jayavikram S](https://www.linkedin.com/in/jaya-vikram-a60ab32a8)
+<a href="https://www.linkedin.com/in/jaya-vikram-a60ab32a8" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:vikram0509206@gmail.com">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+</a>
