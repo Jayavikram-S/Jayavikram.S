@@ -41,6 +41,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:vikram0509206@gmail.com">
+<a href="vikram0509206@gmail.com">
   <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
 </a>
